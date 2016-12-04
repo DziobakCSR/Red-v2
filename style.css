@@ -1,0 +1,22 @@
+body{
+   margin: 0;
+   padding: 0;
+   background: #151515;
+   width: 1200px;
+   height: 1600px;
+}
+/* Ogólne */
+ font,th,td,p { font-family: Roboto; } 
+ a:link,a:active,a:visited { color : #006699; } 
+ p, td { font-size : 13px; color : #fff; } 
+ a:hover { text-decoration: underline; color : #DD6900; } 
+ hr { height: 0px; border: solid #D1D7DC 0px; border-top-width: 1px; } 
+
+.top
+{
+	background: #0e0e0e;
+	width: 100%;
+	border-bottom: 1px solid #b31d1d;
+	height: 35px;
+	margin-top: 0;
+}
